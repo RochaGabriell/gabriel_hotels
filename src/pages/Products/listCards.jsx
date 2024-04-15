@@ -34,6 +34,7 @@ export const listCards = [
     ],
   },
   {
+    id: 3,
     alt: 'Apartamento em frente à praia',
     src: 'https://via.placeholder.com/600x400',
     text: 'Apartamento espaçoso com vista para o mar, totalmente mobiliado e equipado com todas as comodidades necessárias para uma estadia confortável.',
@@ -50,6 +51,7 @@ export const listCards = [
     ],
   },
   {
+    id: 4,
     alt: 'Casa de campo aconchegante',
     src: 'https://via.placeholder.com/600x400',
     text: 'Casa de campo isolada com um belo jardim, perfeita para relaxar e desfrutar da natureza. Totalmente equipada com lareira e churrasqueira.',
@@ -66,6 +68,7 @@ export const listCards = [
     ],
   },
   {
+    id: 5,
     alt: 'Loft moderno no centro da cidade',
     src: 'https://via.placeholder.com/600x400',
     text: 'Loft espaçoso e elegante localizado no coração da cidade, com fácil acesso a todas as principais atrações e comodidades urbanas.',
@@ -82,6 +85,7 @@ export const listCards = [
     ],
   },
   {
+    id: 6,
     alt: 'Casa de praia luxuosa',
     src: 'https://via.placeholder.com/600x400',
     text: 'Mansão à beira-mar com piscina privativa, deck de madeira e vista panorâmica para o oceano. Acomodações de luxo para uma experiência inesquecível.',
@@ -98,6 +102,7 @@ export const listCards = [
     ],
   },
   {
+    id: 7,
     alt: 'Chalé nas montanhas',
     src: 'https://via.placeholder.com/600x400',
     text: 'Chalé rústico e acolhedor situado nas montanhas, cercado por paisagens deslumbrantes e trilhas naturais. Ideal para os amantes da natureza e da aventura.',
